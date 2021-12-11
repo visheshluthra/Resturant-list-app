@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restaurant Advisor</string>
+    <string name="r_name">Name:</string>
+    <string name="r_address">Address:</string>
+    <string name="r_speciality">Speciality:</string>
+    <string name="r_rating">Rating:</string>
+    <string name="textview">TextView:</string>
+    <string name="RestaurantApp">Restaurant List App</string>
+</resources>
